@@ -1,0 +1,27 @@
+{
+  "name": "mongodb_node_materielinfo_api",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Sampanionyy/stock-it-api#readme",
+  "bugs": {
+    "url": "https://github.com/Sampanionyy/stock-it-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sampanionyy/stock-it-api.git"
+  },
+  "license": "ISC",
+  "author": "Sampaniony Rakotoarivelo",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.0",
+    "sequelize": "^6.37.7"
+  }
+}
